@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Mehta</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+
 
 - 🔭 I’m currently working on [e-Portfolio](https://github.com/mehtaprince/BCA_SEM6_135_PRINCE_MEHTA)
 
